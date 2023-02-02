@@ -4,7 +4,7 @@ let a = {
     name : 'dixita',
     language : 'gujarati',
     run : () => {
-       alert("self run")
+      alert("self run")
 }
 }
 console.log(a);
